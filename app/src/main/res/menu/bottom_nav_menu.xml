@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/homeFramgent" android:title="@string/home_name_label" android:icon="@drawable/ic_home"/>
+    <item android:id="@+id/albumFragment" android:title="@string/albums_name_label" android:icon="@drawable/ic_album"/>
+    <item android:id="@+id/playerFragment" android:title="@string/player_name_label" android:icon="@drawable/ic_play_circle"/>
+    <item android:id="@+id/foldersFragment" android:title="@string/folders_name_label" android:icon="@drawable/ic_folder"/>
+    <item android:id="@+id/moreFragment" android:title="@string/more_name_label" android:icon="@drawable/ic_more"/>
+</menu>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Musicorbit</string>
+    <string name="home_name_label">Главная</string>
+    <string name="folders_name_label">Папки</string>
+    <string name="albums_name_label">Альбомы</string>
+    <string name="player_name_label">Плеер</string>
+    <string name="more_name_label">Ещё</string>
+
+</resources>
